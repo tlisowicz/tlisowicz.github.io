@@ -1,6 +1,6 @@
-## Witam na mojej stronie
+# Witam na mojej stronie
 
 
-# Chwilowo nie ma tu za dużo...
-## ...ale może w przyszłości będzie
-### :)
+## Chwilowo nie ma tu za dużo...
+### ...ale może w przyszłości będzie
+#### :)
